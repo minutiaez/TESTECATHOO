@@ -10,6 +10,7 @@ Instalar o typescript(npm install typescript) prisma(npm install prisma) prisma 
 # See the documentation for all the connection string options: https://pris.ly/d/connection-strings
 
 DATABASE_URL="mongodb+srv://felipezuco04:apicand123@candidatos.hiroa2s.mongodb.net/candidatos?retryWrites=true&w=majority") 
+ai é só dar um 'npx prisma generate' no CMD da pasta da API.
 
 Após isso  escreva 'npm run dev' na pasta API para rodar o backend(!!!Se não rodar a API antes o frontend não vai conseguir se conectar com ela!!!)
 
